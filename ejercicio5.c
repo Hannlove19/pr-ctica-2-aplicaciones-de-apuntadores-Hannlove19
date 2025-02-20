@@ -18,7 +18,7 @@ int main(){
   return 0;
 }
 
-
+//prototipos
 void pasarValor(int equis){
   printf("%d\n", equis);
   equis = 128;
